@@ -1,7 +1,4 @@
 {
   "name": "jd-info",
-  "version": "1.0.0",
-  "description": "My simple JSON API",
-  "scripts": {},
-  "dependencies": {}
+  "version": "1.0.0"
 }
