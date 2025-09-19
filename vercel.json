@@ -1,8 +1,7 @@
 {
   "functions": {
-    // 匹配 api 目录下的所有函数文件，指定 Node.js 运行时
     "api/**/*.js": {
-      "runtime": "nodejs@18.1"  // 支持 x 作为次要版本通配符（如 18.x、20.x）
+      "runtime": "nodejs18.1"  
     }
   }
 }
