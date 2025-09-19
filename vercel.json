@@ -1,7 +1,7 @@
 {
   "functions": {
-    "api/**/*.js": {
-      "runtime": "now-php@1.0.0"  
+    "api/data.js": {
+      "runtime": "nodejs18.x"
     }
   }
 }
