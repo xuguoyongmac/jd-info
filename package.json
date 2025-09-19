@@ -1,13 +1,7 @@
 {
-  "name": "my-json-api",
+  "name": "jd-info",
   "version": "1.0.0",
-  "description": "My JSON API Server",
-  "main": "api/data.js",
   "scripts": {
-    "start": "node api/data.js"
-  },
-  "dependencies": {},
-  "engines": {
-    "node": ">=18.x"
+    "dev": "vercel dev"
   }
 }
